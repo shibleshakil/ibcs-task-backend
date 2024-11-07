@@ -40,5 +40,5 @@ ADMIN_EMAIL=
 N.B: Task Management Frontend
 
 ```
-https://github.com/shibleshakil/ 
+https://github.com/shibleshakil/ibcs-task-frontend
 ```
